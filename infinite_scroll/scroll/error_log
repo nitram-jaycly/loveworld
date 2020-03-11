@@ -1,0 +1,4 @@
+[17-Oct-2019 09:14:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lovewsat/public_html/our_project/infinite_scroll/scroll/fetch.php on line 4
+[17-Oct-2019 09:14:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lovewsat/public_html/our_project/infinite_scroll/scroll/fetch.php on line 6
+[17-Oct-2019 09:14:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lovewsat/public_html/our_project/infinite_scroll/scroll/fetch.php on line 7
+[17-Oct-2019 09:16:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/infinite_scroll/scroll/fetch.php on line 7
