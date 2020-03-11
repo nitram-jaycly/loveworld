@@ -1,0 +1,38 @@
+[15-Oct-2019 05:36:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lovewsat/public_html/our_project/download.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lovewsat/public_html/our_project/download.php on line 6
+[19-Oct-2019 05:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lovewsat/public_html/our_project/cookies.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lovewsat/public_html/our_project/cookies.php on line 6
+[21-Oct-2019 15:14:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:14:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:14:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:14:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:14:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:15:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:22:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:22:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:23:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:23:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:26:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:26:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:26:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:26:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:26:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[21-Oct-2019 15:32:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lovewsat/public_html/our_project/blog_fettch.php on line 33
+[23-Oct-2019 03:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lovewsat/public_html/our_project/cookies.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lovewsat/public_html/our_project/cookies.php on line 6
+[30-Oct-2019 08:37:11 UTC] PHP Warning:  include(classes/footer_podcast.phpp): failed to open stream: No such file or directory in /home/lovewsat/public_html/our_project/preview/podcasts.php on line 355
+[30-Oct-2019 08:37:11 UTC] PHP Warning:  include(): Failed opening 'classes/footer_podcast.phpp' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lovewsat/public_html/our_project/preview/podcasts.php on line 355
